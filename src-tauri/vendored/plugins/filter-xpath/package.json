@@ -7,7 +7,7 @@
     "dev": "yaakcli dev ./src/index.js"
   },
   "dependencies": {
-    "@xmldom/xmldom": "^0.8.10",
+    "@xmldom/xmldom": "^0.9.2",
     "xpath": "^0.0.34"
   }
 }
