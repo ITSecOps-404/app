@@ -16,7 +16,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "@types/node": "^22.5.4"
+    "@types/node": "^22.5.5"
   },
   "devDependencies": {
     "cpy-cli": "^5.0.0",
